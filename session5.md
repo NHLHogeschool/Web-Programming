@@ -1,17 +1,30 @@
-# Slide 1
+!SLIDE center
 
-* Dit is een test-slide
-* En nog een bullet
+![Ruby Drawing](images/ruby.png)
 
-# Slide 2
+!SLIDE center
 
-We spreken over hup en hap
+# POP Builder
+## How are we doing?
 
-# Slide met code
+!SLIDE center
 
+# Data Model
+## Anyone want to elaborate?
 
-```ruby
-for item in items
-	puts item
-end
-```
+!SLIDE center
+
+# Performance Assessment
+## Show Your skills
+
+!SLIDE bullets center
+
+# Questions
+
+* Live Programming?
+* Any issues worth **sharing**?
+
+!SLIDE center
+
+# Nested Forms
+## Demonstration
