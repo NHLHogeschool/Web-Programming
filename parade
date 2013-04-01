@@ -1,0 +1,7 @@
+title "Web Programmeren"
+
+footer "footer.erb"
+
+section "College 5" do
+  slides "session5.md"
+end
