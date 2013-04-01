@@ -27,9 +27,42 @@
 !SLIDE center
 
 # Nested Forms
-## Demonstration
 
-!SLIDE bullets center
+!SLIDE
+
+# PlansController
+
+```ruby
+class Plan < ActiveRecord::Base
+  attr_accessible :user_attributes, :planned_competences_attributes
+
+  belongs_to :user
+  accepts_nested_attributes_for :user
+end
+```
+
+```ruby
+class PlansController < ApplicationController
+	def new
+	  @plan = Plan.new
+	  @plan.build_user
+	end
+end
+```
+
+```erb
+<%= form_for @plan do |f| %>
+	<%= f.fields_for :user do |u| %>
+		<%= u.text_field :name %>
+	<% end %>
+<% end %>
+```
+
+!SLIDE center
+
+# Demonstration
+
+!SLIDE center
 
 # Github
 ## github.com/NHLHogeschool
