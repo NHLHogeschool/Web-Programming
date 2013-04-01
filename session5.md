@@ -28,3 +28,18 @@
 
 # Nested Forms
 ## Demonstration
+
+!SLIDE bullets center
+
+# Github
+## github.com/NHLHogeschool
+
+Download my attempt [here](https://github.com/NHLHogeschool/NextSemester)
+
+Course sheets are [here](https://github.com/NHLHogeschool/Web-Programming)
+
+!SLIDE center
+
+# Seriously
+## Think about Questions…
+…we are here to help.
