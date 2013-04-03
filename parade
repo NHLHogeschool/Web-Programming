@@ -3,5 +3,10 @@ title "Web Programmeren"
 footer "footer.erb"
 
 section "College 5" do
-  slides "session5.md"
+  slides "nested_forms.md"
+end
+
+section "Extra College 2" do
+  slides "javascript.md"
+  slides "backbonejs.md"
 end
