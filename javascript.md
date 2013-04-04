@@ -8,9 +8,11 @@
 # DataTypes
 
 ```javascript
-num = 1;
+num = 2013;
 fl  = 2.0;
 str = 'The Next Web';
+
+alert(str + ', ' + num);
 ```
 
 ```javascript
