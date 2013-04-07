@@ -43,6 +43,7 @@
 * Wrapper for HTML-element
 * Responsible for rendering
 * Reacts to events
+* Automatically re-render on Model-changes
 * HTML-element in View-instance.el
 
 !SLIDE
