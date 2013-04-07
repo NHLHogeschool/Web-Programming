@@ -1,7 +1,16 @@
 !SLIDE center
 
 # Javascript
-## Basics
+
+!SLIDE
+
+# Javascript
+
+* Runs in browser
+* Much alike Ruby (in some aspects)
+* ECMAScript (Actionscript)
+* Events
+* AJAX
 
 !SLIDE
 
@@ -27,20 +36,29 @@ obj.teacher1 = 'Jan-Wessel Hovingh';
 obj.teacher2 = 'Guido Swildens';
 ```
 
+!SLIDE execute smbullets bullets
+
+# jQuery
+
+* A very popular Javascript-Framework
+* Easy AJAX
+* Easy Access to the DOM
+* Browser-agnostic
+
+```javascript
+$('title').html('Hello from the slides!');
+$('.execute h1').html();
+```
+
+```javascript
+$.get('/', function(data) {
+  alert(data);
+})
+```
+
 !SLIDE
 
-# Differences with Ruby
-### (and other Server-Side programming languages)
+# Node.js
 
-* Realtime / Events
-* Runs in the browser (client-side)
-
-```html
-<html>
-  <body>
-    <script type="text/javascript" charset="utf-8">
-      alert('Hello World!');
-    </script>
-  </body>
-</html>
-```
+* A server-side framework
+* I will not talk about this today
