@@ -10,3 +10,7 @@ section "Extra College 2" do
   slides "javascript.md"
   slides "backbonejs.md"
 end
+
+section "College 6" do
+	slides "jquery.md"
+end
