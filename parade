@@ -14,3 +14,7 @@ end
 section "College 6" do
 	slides "jquery.md"
 end
+
+section "College 7" do
+	slides "jasmine.md"
+end
