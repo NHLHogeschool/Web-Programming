@@ -18,3 +18,9 @@ end
 section "College 7" do
 	slides "jasmine.md"
 end
+
+section "College 8" do
+	slides "tdd.md"
+	slides "bdd.md"
+	slides "rspec.md"
+end
