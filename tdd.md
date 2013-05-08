@@ -2,6 +2,13 @@
 
 ![Ruby Drawing](images/ruby.png)
 
+!SLIDE
+
+# Updates
+
+* Rails 4 RC!!
+* Passenger 4 (én Enterprise)
+
 !SLIDE center
 
 # Test Driven Development

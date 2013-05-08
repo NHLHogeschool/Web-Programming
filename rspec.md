@@ -44,3 +44,9 @@ end
 # RSpec
 ## Demonstration
 http://github.com/NHLHogeschool/RSpec
+
+!SLIDE center
+
+# RSpec Rails
+## Demonstration
+http://github.com/NHLHogeschool/blog
